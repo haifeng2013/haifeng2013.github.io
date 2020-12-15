@@ -17,6 +17,7 @@ An interactive map of Chicago bike routes. Explore which neighborhoods have the 
 ### Boston Liquor Licenses
 
 __[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/boston-liquor) - [Live Map](https://haifeng2013.github.io/xyz-showcase/boston-liquor)__
+__[Source Code (IML)](https://github.com/haifeng2013/xyz-showcase/tree/master/boston-liquor-iml) - [Live Map (IML)](https://haifeng2013.github.io/xyz-showcase/boston-liquor-iml)__
 
 Plan your next pub crawl with this interactive map listing all establishments that serve liquor in Boston. Using [HERE Location Services Routing](https://developer.here.com/documentation/routing/topics/request-isoline.html), filter establishments within a certain walking radius.
 
