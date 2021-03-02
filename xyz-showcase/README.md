@@ -16,14 +16,17 @@ An interactive map of Chicago bike routes. Explore which neighborhoods have the 
 
 ### Boston Liquor Licenses
 
-__[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/boston-liquor) - [Live Map](https://haifeng2013.github.io/xyz-showcase/boston-liquor)__ \
-__[Source Code (IML)](https://github.com/haifeng2013/xyz-showcase/tree/master/boston-liquor-iml) - [Live Map (IML)](https://haifeng2013.github.io/xyz-showcase/boston-liquor-iml)__
+Space: __[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/boston-liquor) - [Live Map](https://haifeng2013.github.io/xyz-showcase/boston-liquor)__
+
+Interactive Map Layer: __[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/boston-liquor-iml) - [Live Map](https://haifeng2013.github.io/xyz-showcase/boston-liquor-iml)__
 
 Plan your next pub crawl with this interactive map listing all establishments that serve liquor in Boston. Using [HERE Location Services Routing](https://developer.here.com/documentation/routing/topics/request-isoline.html), filter establishments within a certain walking radius.
 
 ### D.C. Proposed Public Transit 2030
 
-__[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/dc-transit-2030) - [Live Map](https://haifeng2013.github.io/xyz-showcase/dc-transit-2030)__
+Space: __[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/dc-transit-2030) - [Live Map](https://haifeng2013.github.io/xyz-showcase/dc-transit-2030)__
+
+Interactive Map Layer: __[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/dc-transit-2030-iml) - [Live Map](https://haifeng2013.github.io/xyz-showcase/dc-transit-2030-iml)__
 
 Explore the proposed public transit system of Washington D.C. in 2030.
 
@@ -81,7 +84,9 @@ Map of air quality in Madrid.
 
 ### Amsterdam Solar Energy
 
-__[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/amsterdam-solar) - [Live Map](https://haifeng2013.github.io/xyz-showcase/amsterdam-solar)__
+Space: __[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/amsterdam-solar) - [Live Map](https://haifeng2013.github.io/xyz-showcase/amsterdam-solar)__
+
+Interactive Map Layer: __[Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/amsterdam-solar-iml) - [Live Map](https://haifeng2013.github.io/xyz-showcase/amsterdam-solar-iml)__
 
 Solar panels and trees in Amsterdam.
 
@@ -94,3 +99,13 @@ __Tangram: [Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master
 __Three.js: [Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/flights-threejs) - [Live Map](https://haifeng2013.github.io/xyz-showcase/flights-threejs)__
 
 Flight data visualized in three different renderers.
+
+
+### Chemnitz Standard Land Value
+__Harp.gl: [Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/land-value-here-Harp-iml) - [Live Map](https://haifeng2013.github.io/xyz-showcase/land-value-here-Harp-iml)__
+
+### Polulation Density
+__Mapbox gl: [Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/population-heatmap-mapbox-iml) - [Live Map](https://haifeng2013.github.io/xyz-showcase/population-heatmap-mapbox-iml)__
+
+### Cellular Tower
+__XYZ Maps: [Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/cell-here-xyzmaps-iml) - [Live Map](https://haifeng2013.github.io/xyz-showcase/cell-here-xyzmaps-iml)__
