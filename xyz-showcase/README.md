@@ -109,3 +109,6 @@ __Mapbox gl: [Source Code](https://github.com/haifeng2013/xyz-showcase/tree/mast
 
 ### Cellular Tower
 __XYZ Maps: [Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/cell-here-xyzmaps-iml) - [Live Map](https://haifeng2013.github.io/xyz-showcase/cell-here-xyzmaps-iml)__
+
+### Flight Routes
+__Deck gl: [Source Code](https://github.com/haifeng2013/xyz-showcase/tree/master/flight-routes-DeckGL-iml) - [Live Map](https://haifeng2013.github.io/xyz-showcase/flight-routes-DeckGL-iml)__
