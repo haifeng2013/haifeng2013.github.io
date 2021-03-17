@@ -5,7 +5,7 @@ const catalogHrn = 'hrn:here:data::olp-here:dh-showcase-flight-routes';
 const layerId = 'flight-routes';
 
 
-var flightRoutesURL = `https://interactive.data.api.platform.here.com/interactive/v1/catalogs/${catalogHrn}/layers/${layerId}/search?p.src=AIRPORTCODE&apiKey=${apiKey}`;
+var flightRoutesURL = `https://interactive.data.api.platform.here.com/interactive/v1/catalogs/${catalogHrn}/layers/${layerId}/search?p.src=AIRPORTCODE&apiKey=${apiKey}&selection=-`;
 
 async function getRoutes(airportcode) {
   const url = flightRoutesURL.replace('AIRPORTCODE', airportcode);
